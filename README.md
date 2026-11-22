@@ -1,14 +1,14 @@
 # 2026 机场推荐与选购指南｜机场百科 Jichang Wiki
 
-<!-- 正文基准：V0.5.0（已确认）；发布准备 V0.9.0-rc.1 候选版（2026-11-21，未发布）；仅新增素材与授权说明，不替代已确认总体规划。 -->
+<!-- V1.1.0 更新文件：上传后生效。 -->
 
 ![机场百科 Jichang Wiki 品牌标识](assets/logo/logo-horizontal.svg)
 
 机场百科是一份面向中文读者的原创网络知识资料库。如果你正在寻找机场推荐，或者面对不同价格、线路、节点数量和客户端支持情况，不知道该如何比较，可以从这里建立自己的选择标准。
 
-本指南以选购知识、服务规格、测评方法和网络技术为主，不提供未经核验的品牌排行榜。没有一种服务能够保证适合所有人，合理的选择取决于实际需求、预算、使用环境和风险承受能力。
+本指南以选购知识、服务规格、测评方法和网络技术为主，并提供八家机场的商业推荐参考，不将推荐顺序作为未经核验的性能排行榜。没有一种服务能够保证适合所有人，合理的选择取决于实际需求、预算、使用环境和风险承受能力。
 
-**内容导航：** 项目介绍 · 机场选购 · 服务规格对比 · 六大知识分类 · 常见问题 · 延伸阅读 · 资料与披露。
+**内容导航：** 项目介绍 · 2026八家机场推荐 · 机场选购 · 服务规格对比 · 六大知识分类 · 延伸阅读 · 资料与披露 · FAQ。
 
 ## 关于机场百科 Jichang Wiki
 
@@ -25,6 +25,31 @@
 ### 内容研究与维护原则
 
 项目区分官方资料、真实测试和第三方信息。服务商公开的规格只能证明其公开作出了相应说明，不能直接证明实际性能。本项目不出售订阅或提供免费节点资源。使用网络服务时，应遵守所在地适用的法律法规及相关平台条款。
+
+## 2026八家机场推荐
+
+以下为站长选购推荐顺序，不代表独立测速或综合性能排名。选购前请核对服务条款、最新套餐、客户端兼容性及退款规则。
+
+### 商业推广声明
+
+本站部分推荐涉及商业合作与联盟推广。通过推广链接购买服务，本站不会向用户额外收取费用。推广佣金是维持本站持续运营及原创内容更新的收入来源之一。
+
+具体利益关系见 [商业关系与推广披露](DISCLOSURE.md)。
+
+下表为运营方确认的月付套餐参考，具体价格、流量及优惠以服务商实际结算页面为准。
+
+| 机场品牌 | 推荐定位 | 月付套餐参考 | 推广入口 |
+| --- | --- | --- | --- |
+| **浪网 WaveNet**（[品牌利益关系](DISCLOSURE.md#关联内容品牌与自有业务)） | 站长首选 | ¥30/月 | [推广入口](https://lw.wavenetaff.com/#/?code=veqCSxNn) |
+| 暮光网络 | 主推机场 | ¥20/月；120GB/月 | [推广入口](https://lw.twilightaff.com/#/?code=wFdOPUP4) |
+| 微风网络 | 主推机场 | ¥25/月；200GB/月 | [推广入口](https://edp01.breezenetaff.com/#/?code=88jnWV4Z) |
+| 飞猫云 | 主推机场 | ¥25/月；150GB/月 | [推广入口](https://flycat1.flycatvipaff.cc/#/?code=0V34nZhm) |
+| 大佬云 | 主推机场 | ¥19.99/月；100GB/月 | [推广入口](https://a01vipaff.dalaoyunaff.com/#/?code=XhvV3U4h) |
+| 飞V | 主推机场 | ¥25/月；150GB/月 | [推广入口](https://lw.flyvaff.com/#/?code=CKzLGwN2) |
+| 灵动云 | 主推机场 | ¥20/月；100GB/月 | [推广入口](https://lw.lingdongaff.com/#/?code=KN4egq9h) |
+| 隐形人 | 主推机场 | ¥24/月；144GB/月 | [推广入口](https://lw.invisibleaff.com/#/?code=r9aWwmfL) |
+
+上述入口为带推广识别参数的服务商入口。价格、优惠与可用性以实际服务商页面为准。未对上述八家进行统一环境下的独立性能测试。
 
 ## 2026年机场推荐：如何选择适合自己的机场？
 
@@ -129,7 +154,7 @@ Clash Verge Rev 与 v2rayN 均有桌面系统版本，v2rayNG 面向 Android；�
 | 服务支持 | 退款条件、故障反馈渠道 | 将宣传承诺等同于可执行保障 |
 | 安全与隐私 | 运营主体、权限、隐私条款 | 把加密等同于完全匿名 |
 
-本指南目前不列出具体服务品牌的规格对比或推荐名次。在取得并复核真实价格、服务条款与相关证据之前，读者可先使用上述参考方法进行判断。没有资料的指标应标记为未知，而不是估算为零或默认表现优秀。
+本指南的商业推荐名单不等同于具体服务品牌的实测规格对比或性能名次。读者可使用上述参考方法核对所选服务的实际价格、服务条款与相关证据。没有资料的指标应标记为未知，而不是估算为零或默认表现优秀。
 
 ## 机场百科原创知识资料库
 
@@ -162,6 +187,44 @@ Clash Verge Rev 与 v2rayN 均有桌面系统版本，v2rayNG 面向 Android；�
 
 - [什么才算好用的机场？普通用户的七项选择标准](docs/faq/good-airport.md)：建立与个人需求相关的选择框架。
 - [机场避坑指南：免费节点、长期套餐与订阅安全](docs/faq/airport-risks.md)：了解不明来源服务、预付费及凭据泄露的潜在风险。
+
+## 相关知识项目与延伸阅读
+
+### 网络工具选购与技术资料
+
+如需确认软件支持范围，应优先查阅维护者的原始资料，而不是仅依赖下载站或推广介绍。
+
+- [Mihomo 官方文档](https://wiki.metacubex.one/en/config/)：了解配置结构。
+- [Clash Verge Rev 官方项目](https://github.com/clash-verge-rev/clash-verge-rev)、[v2rayN 官方项目](https://github.com/2dust/v2rayN)、[v2rayNG 官方项目](https://github.com/2dust/v2rayNG)：核对客户端说明。
+- [Shadowrocket 的 App Store 页面](https://apps.apple.com/my/app/shadowrocket/id932747118)：核对软件说明；实际可获得性取决于所在地区及账户条件。
+
+### 网络实验与套餐研究
+
+网络性能可延伸阅读 [RFC Editor](https://www.rfc-editor.org/)，理解测量定义。套餐费用则应优先核对实际服务条款。关联博客文章仅在核验具体页面的内容与链接后纳入本节。
+
+## 资料来源、商业披露及更新记录
+
+### 资料来源与核验标准
+
+A级为官方技术文档、源码及官方资料；B级为有记录的实际测试；C级为可核实第三方资料；D级为未核实信息，不作为确定事实发布。资料等级说明来源性质，不保证所有官方声明均已独立证实。详细记录见 [SOURCES.md](SOURCES.md)。
+
+### 商业关系与推广披露
+
+商业推广声明见推荐模块，具体品牌利益关系及编辑原则见 [DISCLOSURE.md](DISCLOSURE.md)。商业合作不能替代性能证据。
+
+### 内容更新记录
+
+当前指南以2026年为内容整理年度，首次内容整理日期为2026年11月20日。本项目于2026年11月22日首次公开。V1.1.0 增加八家机场推荐，并将常见问题集中于页面末尾。重要修订将在 [CHANGELOG.md](CHANGELOG.md) 中记录，不以修改日期代替资料核验。技术内容按季度复核，服务资料和外链定期检查；不保证未核验服务的实时可用性。
+
+### 内容许可证与品牌标识
+
+运营方有权授权的原创正文与 `assets/diagrams/` 中的原创知识图采用 [CC BY-NC-ND 4.0](LICENSE)。署名使用机场百科（Jichang Wiki），保留原始来源与许可信息，不授予商业转载或公开分发改编作品的许可。`assets/logo/` 内的标识、`assets/images/social-preview.png` 品牌封面、品牌名称、管理文件（SOURCES.md、DISCLOSURE.md、CHANGELOG.md、CONTRIBUTING.md）及第三方引用资料不纳入该授权；各自权利、适用的法定例外与 GitHub 平台条款不受削减。不授予商标权，额外许可须单独确认。许可证全文见 LICENSE，正式条款以 [Creative Commons 官方法律文本](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en) 为准。
+
+品牌及知识图中的文字使用 Noto Sans CJK SC 2.004（Regular / Bold），源字体采用 [SIL Open Font License 1.1](https://github.com/notofonts/noto-cjk/blob/main/Sans/LICENSE)；图中文字为轮廓或栅格化呈现，仓库不分发字体文件。字库权利不属于本项目的 CC 授权范围。
+
+### 参与贡献与错误反馈
+
+欢迎依据公开资料提出更正和补充，具体方式见 [CONTRIBUTING.md](CONTRIBUTING.md)。反馈时请勿公开个人账户、订阅凭据及其他敏感信息。
 
 ## 机场推荐与网络工具常见问题（FAQ）
 
@@ -212,41 +275,3 @@ Clash Verge Rev 与 v2rayN 均有桌面系统版本，v2rayNG 面向 Android；�
 ### 机场月付和年付应该如何选择？
 
 月付通常使首次支出较小；年付可能具有折扣，但同时承担更长的预付费风险。应结合实际需求、退款规定及已核验的服务记录判断。[费用分析](docs/guides/budget-airports.md)与[风险指南](docs/faq/airport-risks.md)。
-
-## 相关知识项目与延伸阅读
-
-### 网络工具选购与技术资料
-
-如需确认软件支持范围，应优先查阅维护者的原始资料，而不是仅依赖下载站或推广介绍。
-
-- [Mihomo 官方文档](https://wiki.metacubex.one/en/config/)：了解配置结构。
-- [Clash Verge Rev 官方项目](https://github.com/clash-verge-rev/clash-verge-rev)、[v2rayN 官方项目](https://github.com/2dust/v2rayN)、[v2rayNG 官方项目](https://github.com/2dust/v2rayNG)：核对客户端说明。
-- [Shadowrocket 的 App Store 页面](https://apps.apple.com/my/app/shadowrocket/id932747118)：核对软件说明；实际可获得性取决于所在地区及账户条件。
-
-### 网络实验与套餐研究
-
-网络性能可延伸阅读 [RFC Editor](https://www.rfc-editor.org/)，理解测量定义。套餐费用则应优先核对实际服务条款。关联博客文章仅在核验具体页面的内容与链接后纳入本节。
-
-## 资料来源、商业披露及更新记录
-
-### 资料来源与核验标准
-
-A级为官方技术文档、源码及官方资料；B级为有记录的实际测试；C级为可核实第三方资料；D级为未核实信息，不作为确定事实发布。资料等级说明来源性质，不保证所有官方声明均已独立证实。详细记录见 [SOURCES.md](SOURCES.md)。
-
-### 商业关系与推广披露
-
-本项目运营方旗下或参与运营的相关博客可能包含商业推广、联盟佣金及关联服务品牌介绍。运营方同时经营浪网（WaveNet）网络服务品牌，因此存在直接商业利益关系；本项目当前不提供其官网、优惠码或推广链接。相关利益关系将在涉及具体品牌或关联链接时明确说明。商业合作不能替代性能证据。完整说明见 [DISCLOSURE.md](DISCLOSURE.md)。
-
-### 内容更新记录
-
-当前指南以2026年为内容整理年度，首次内容整理日期为2026年11月20日。重要修订将在 [CHANGELOG.md](CHANGELOG.md) 中记录，不以修改日期代替资料核验。技术内容按季度复核，服务资料和外链定期检查；不保证未核验服务的实时可用性。
-
-### 内容许可证与品牌标识
-
-本项目正式公开后，运营方有权授权的原创正文与 `assets/diagrams/` 中的原创知识图采用 [CC BY-NC-ND 4.0](LICENSE)。署名使用机场百科（Jichang Wiki），保留原始来源与许可信息，不授予商业转载或公开分发改编作品的许可。`assets/logo/` 内的标识、`assets/images/social-preview.png` 品牌封面、品牌名称、管理文件（SOURCES.md、DISCLOSURE.md、CHANGELOG.md、CONTRIBUTING.md）及第三方引用资料不纳入该授权；各自权利、适用的法定例外与 GitHub 平台条款不受削减。不授予商标权，额外许可须单独确认。许可证全文见 LICENSE，正式条款以 [Creative Commons 官方法律文本](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en) 为准。
-
-品牌及知识图中的文字使用 Noto Sans CJK SC 2.004（Regular / Bold），源字体采用 [SIL Open Font License 1.1](https://github.com/notofonts/noto-cjk/blob/main/Sans/LICENSE)；图中文字为轮廓或栅格化呈现，仓库不分发字体文件。字库权利不属于本项目的 CC 授权范围。
-
-### 参与贡献与错误反馈
-
-欢迎依据公开资料提出更正和补充，具体方式见 [CONTRIBUTING.md](CONTRIBUTING.md)。反馈时请勿公开个人账户、订阅凭据及其他敏感信息。
