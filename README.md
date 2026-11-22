@@ -34,22 +34,20 @@
 
 本站部分推荐涉及商业合作与联盟推广。通过推广链接购买服务，本站不会向用户额外收取费用。推广佣金是维持本站持续运营及原创内容更新的收入来源之一。
 
-具体利益关系见 [商业关系与推广披露](DISCLOSURE.md)。
-
 下表为运营方确认的月付套餐参考，具体价格、流量及优惠以服务商实际结算页面为准。
 
-| 机场品牌 | 推荐定位 | 月付套餐参考 | 推广入口 |
+| 机场品牌 | 推荐定位 | 月付套餐参考 | 官网入口 |
 | --- | --- | --- | --- |
-| **浪网 WaveNet**（[品牌利益关系](DISCLOSURE.md#关联内容品牌与自有业务)） | 站长首选 | ¥30/月 | [推广入口](https://lw.wavenetaff.com/#/?code=veqCSxNn) |
-| 暮光网络 | 主推机场 | ¥20/月；120GB/月 | [推广入口](https://lw.twilightaff.com/#/?code=wFdOPUP4) |
-| 微风网络 | 主推机场 | ¥25/月；200GB/月 | [推广入口](https://edp01.breezenetaff.com/#/?code=88jnWV4Z) |
-| 飞猫云 | 主推机场 | ¥25/月；150GB/月 | [推广入口](https://flycat1.flycatvipaff.cc/#/?code=0V34nZhm) |
-| 大佬云 | 主推机场 | ¥19.99/月；100GB/月 | [推广入口](https://a01vipaff.dalaoyunaff.com/#/?code=XhvV3U4h) |
-| 飞V | 主推机场 | ¥25/月；150GB/月 | [推广入口](https://lw.flyvaff.com/#/?code=CKzLGwN2) |
-| 灵动云 | 主推机场 | ¥20/月；100GB/月 | [推广入口](https://lw.lingdongaff.com/#/?code=KN4egq9h) |
-| 隐形人 | 主推机场 | ¥24/月；144GB/月 | [推广入口](https://lw.invisibleaff.com/#/?code=r9aWwmfL) |
+| **浪网 WaveNet** | 站长首选 | ¥30/月 | <a href="https://lw.wavenetaff.com/#/?code=veqCSxNn" rel="sponsored nofollow noopener noreferrer" target="_blank">进入官网</a> |
+| 暮光网络 | 主推机场 | ¥20/月；120GB/月 | <a href="https://lw.twilightaff.com/#/?code=wFdOPUP4" rel="sponsored nofollow noopener noreferrer" target="_blank">进入官网</a> |
+| 微风网络 | 主推机场 | ¥25/月；200GB/月 | <a href="https://edp01.breezenetaff.com/#/?code=88jnWV4Z" rel="sponsored nofollow noopener noreferrer" target="_blank">进入官网</a> |
+| 飞猫云 | 主推机场 | ¥25/月；150GB/月 | <a href="https://flycat1.flycatvipaff.cc/#/?code=0V34nZhm" rel="sponsored nofollow noopener noreferrer" target="_blank">进入官网</a> |
+| 大佬云 | 主推机场 | ¥19.99/月；100GB/月 | <a href="https://a01vipaff.dalaoyunaff.com/#/?code=XhvV3U4h" rel="sponsored nofollow noopener noreferrer" target="_blank">进入官网</a> |
+| 飞V | 主推机场 | ¥25/月；150GB/月 | <a href="https://lw.flyvaff.com/#/?code=CKzLGwN2" rel="sponsored nofollow noopener noreferrer" target="_blank">进入官网</a> |
+| 灵动云 | 主推机场 | ¥20/月；100GB/月 | <a href="https://lw.lingdongaff.com/#/?code=KN4egq9h" rel="sponsored nofollow noopener noreferrer" target="_blank">进入官网</a> |
+| 隐形人 | 主推机场 | ¥24/月；144GB/月 | <a href="https://lw.invisibleaff.com/#/?code=r9aWwmfL" rel="sponsored nofollow noopener noreferrer" target="_blank">进入官网</a> |
 
-上述入口为带推广识别参数的服务商入口。价格、优惠与可用性以实际服务商页面为准。未对上述八家进行统一环境下的独立性能测试。
+上述「进入官网」为带推广识别参数的服务商入口。点击将前往外部服务商页面；如需保留本站页面，可按住 Ctrl（Mac 为 Command）点击链接，或右键选择在新标签页打开。价格、优惠与可用性以实际服务商页面为准。未对上述八家进行统一环境下的独立性能测试。
 
 ## 2026年机场推荐：如何选择适合自己的机场？
 

@@ -7,6 +7,7 @@
 - README 增加「2026八家机场推荐」：浪网为站长首选，其余七家为主推机场。套餐及推广入口经运营方确认；未完成独立实时结算核验或统一性能测试。
 - README 使用简洁商业推广声明，具体品牌的直接利益关系在 DISCLOSURE.md 中说明；商业推荐不代表独立性能排名。
 - 将原有12项 FAQ 完整移至 README 末尾。保留原 H1、六类12篇文章、原图像素材及许可证，不启用 GitHub Pages。
+- 八家商业外链源文件统一使用 sponsored、nofollow、noopener、noreferrer 和新标签页属性，入口文字为「进入官网」，并提供新标签页操作提示；GitHub 实际渲染属性及跳转行为待核验，不添加 noindex 指令。
 - 本次仅更新 README.md、DISCLOSURE.md、CHANGELOG.md。
 
 ## V1.0.0 — 2026-11-22（首次公开发布）
