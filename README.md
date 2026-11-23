@@ -112,7 +112,7 @@
 
 假设两个方案均按月重置、没有额外费用，并且连续提供完整服务，B 的月均价格较低，但需要一次支付180元。如果只使用一个月，或者服务提前终止且不能退款，折算价格就不足以反映实际损失。未使用流量也会影响真实使用成本。
 
-**延伸阅读：** <a href="https://jichangmingdeng.blog/compare" target="_blank" rel="noopener noreferrer">机场明灯｜20家机场套餐价格与流量对比</a>，提供月付价格、流量配额及多品牌横向对比工具。该网站与本项目存在关联运营关系。
+**延伸阅读：** <a href="https://jichangmingdeng.blog/compare" target="_blank" rel="noopener noreferrer">机场明灯｜20家机场套餐价格与流量对比</a> ｜ <a href="https://tizireping.blog/recommend/compare/" target="_blank" rel="noopener noreferrer">梯子热评｜专业机场套餐对比与选购指南</a>。两个网站提供不同角度的套餐比较与选购参考。
 
 ### IEPL、IPLC、中转与直连线路
 
