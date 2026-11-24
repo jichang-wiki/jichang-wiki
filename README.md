@@ -198,6 +198,8 @@ Clash Verge Rev 与 v2rayN 均有桌面系统版本，v2rayNG 面向 Android；�
 - [Clash Verge Rev 官方项目](https://github.com/clash-verge-rev/clash-verge-rev)、[v2rayN 官方项目](https://github.com/2dust/v2rayN)、[v2rayNG 官方项目](https://github.com/2dust/v2rayNG)：核对客户端说明。
 - [Shadowrocket 的 App Store 页面](https://apps.apple.com/my/app/shadowrocket/id932747118)：核对软件说明；实际可获得性取决于所在地区及账户条件。
 
+**延伸阅读：** <a href="https://tiziintel.blog/" target="_blank" rel="noopener noreferrer">梯子情报局｜VPN客户端、GitHub开源项目与网络技术资讯</a>。了解客户端更新、网络故障排查与原创技术文章。
+
 ### 网络实验与套餐研究
 
 网络性能可延伸阅读 [RFC Editor](https://www.rfc-editor.org/)，理解测量定义。套餐费用则应优先核对实际服务条款。关联博客文章仅在核验具体页面的内容与链接后纳入本节。
