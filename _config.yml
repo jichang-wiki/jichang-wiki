@@ -1,0 +1,5 @@
+url: "https://jichang-wiki.github.io"
+baseurl: "/jichang-wiki"
+
+plugins:
+  - jekyll-sitemap
